@@ -14,8 +14,8 @@ class Api_BD:
 
 
 empleado_1 = "Empleado 1: jonnatan Rueda 1093591113 321-7297443"
-empleado_2 = "Empleado 2: Carlos Perez 52370510 321-7297444"
-empleado_3 = "Empleado 3: Ana Gomez 13717353 321-7297445"
+empleado_2 = "Empleado 2: Carlos Perez 52370510 321-9214833"
+empleado_3 = "Empleado 3: Ana Gomez 13717353 322-7658907"
 
 empleados = [empleado_1, empleado_2, empleado_3]
 empleados_adicionales = [empleado_2, empleado_3]
@@ -51,6 +51,7 @@ api.imprimir_Api()
 
 api.Api_datos.reverse()
 api.imprimir_Api()
+
 
 
 
